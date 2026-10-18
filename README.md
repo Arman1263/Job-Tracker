@@ -5,12 +5,13 @@
 A modern, responsive job application tracker built with React and Vite to help job seekers organize applications, monitor hiring progress, and manage their job search from one dashboard.
 
 🔗 **Live Demo:** [View Job Tracker](https://job-tracker-swart-eight.vercel.app)
+<br>
 📦 **GitHub Repository:** [Arman1263/Job-Tracker](https://github.com/Arman1263/Job-Tracker)
 
 ---
 
 ## 📸 Project Preview
-**![Project Screenshot]**(images/screenshot.png)
+![Project Screenshot](snapshot.png)
 
 
 
